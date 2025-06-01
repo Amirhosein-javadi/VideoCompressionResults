@@ -14,6 +14,15 @@ We present side-by-side comparisons of original and compressed videos for three 
 
 Each comparison video shows the original footage on the left and our compressed version on the right.
 
+### Compression Rate Comparison
+
+The following table shows the average compression rates in bits per pixel (bpp) for different methods:
+
+| Method | Average bpp |
+|--------|-------------|
+| Our Method | 0.008 |
+| DCVC | x |
+
 ## Enhanced Pixel Tracking Results
 
 We also present results from our pixel tracking algorithm, demonstrated on the HoneyBee sequence:
