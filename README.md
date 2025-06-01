@@ -21,7 +21,7 @@ The following table shows the average compression rates in bits per pixel (bpp) 
 | Method | Average bpp |
 |--------|-------------|
 | Our Method | 0.008 |
-| DCVC | x |
+| DCVC | 0.0306 |
 
 ## Enhanced Pixel Tracking Results
 
